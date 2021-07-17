@@ -14,6 +14,8 @@ How to install this project
 
 ### Usage
 
+Basic description of how to use the project.
+
 ### License
 
 ### Acknowledgements
